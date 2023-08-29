@@ -6,56 +6,49 @@
 
 <br>
 
-## Соревнования, хакатоны:
-
-  - Текст с отступом  ewerg werg we gweg werg weg werg 2werg wer gweg weg werg werg weg weg werg wer gweg werg weg egweg weg weg werg weg weg weg weg weg weg weg weg wer 
-
-<b style="margin: 60px">Текст с отступом</b>
-
-<span style="padding: 40px 40px">&nbsp;Текст с отступом</span>
-
-&ensp;Текст с отступом
-
-&emsp;Текст с отступом
+A | B | C
+| - | - | -
+| 1. | aaa | 123 |
+| 2. | bbbbb bb | 234 |
+|  | asdklfgasdlkfgaslkdfgasdlkga
+| 3. | c ccc cc | 345 |
 
 
 
-1. ### Август 2023: Соревнование от компании ЦФТ
-
-<pre>
- 7 место из 199 в лидерборде as sdfsdfgs sdf sdfgsdf gsdf gsd gsdf gsdfg sdfgsdfgsdfgs df gsdfg sdfgksjdhfgksjgh kjhkjsghkjghkdjfg hkjhkjhsdkfjg kjhkjhskjsdfhg kjhkjhkjhksjdhf kjh kjhkjhkjhsdfk hkjhkjhkjshdkfjg kjhkjhkjhkshdf kjhkjhkjhkhkjh skdfj jhkhg
-</pre>
 
 <br>
 
-### Июнь 2023: Соревнование Kaggle: "Regression with a Crab Age Dataset"
-<br>
 
-### Май 2023: [Хакатон "Лидеры Цифровой Трансформации" 2023](https://github.com/petrochenkovp/portfolio/tree/main/p08_leaders2023/)
-    asdfasdf
-    aetrterrtwert
 
-### Март 2023: [Соревнование от компании Казань-Экспресс](https://github.com/petrochenkovp/portfolio/tree/main/p07_kazan_express/)
-&nbsp; asdfasdf
+## Соревнования, хакатоны
 
-&nbsp; aetrterrtwert
+### [Хакатон "Лидеры Цифровой Трансформации" 2023, задача от компании OZON](https://github.com/petrochenkovp/portfolio/tree/main/p08_leaders2023/)
+Краткое описание
 
-asdfasdfasdf
+### [Соревнование от компании Казань-Экспресс](https://github.com/petrochenkovp/portfolio/tree/main/p07_kazan_express/)
+Краткое описание
 
 <br>
+<br>
 
-## Учебные проекты в рамках обучения на курсе "Специалист по DataScience" в Яндекс Практикуме:
+## Учебные проекты
 
 ### [p06_steel](https://github.com/petrochenkovp/portfolio/tree/main/p06_steel/)
-
-```
-          7 место из 199 в лидерборде as sdfsdfgs sdf sdfgsdf gsdf gsd gsdf gsdfg sdfgsdfgsdfgs df gsdfg sdfgksjdhfgksjgh kjhkjsghkjghkdjfg hkjhkjhsdkfjg kjhkjhskjsdfhg kjhkjhkjhksjdhf kjh kjhkjhkjhsdfk hkjhkjhkjshdkfjg kjhkjhkjhkshdf kjhkjhkjhkhkjh skdfj jhkhg
-```
-
+Краткое описание
 
 ### [p05_shop](https://github.com/petrochenkovp/portfolio/tree/main/p05_shop/)
+Краткое описание
+
 ### [p04_cars](https://github.com/petrochenkovp/portfolio/tree/main/p04_cars/)
+Краткое описание
+
 ### [p03_gold](https://github.com/petrochenkovp/portfolio/tree/main/p03_gold/)
-### [p02_games](https://github.com/petrochenkovp/portfolio/tree/main/p02_games/)
+Краткое описание
+
+### [Выявление закономерностей, определяющих успешность компьютерной игры](https://github.com/petrochenkovp/portfolio/tree/main/p02_games/)
+Заказчик – интернет-магазин, который продаёт компьютерные игры по всему миру. В распоряжении исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы. Нужно выявить определяющие коммерческую успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании
+
 ### [Исследование объявлений о продаже квартир](https://github.com/petrochenkovp/portfolio/tree/main/p01_realty/)
+Используя архив объявлений из сервиса Яндекс Недвижимость о продаже квартир в Санкт-Петербурге и его окрестностях за несколько лет, нужно провести исследовательский анализ данных, научиться определять рыночную стоимость объектов недвижимости и параметры, влияющие на их цену. Это позволит построить автоматизированную систему, которая отследит аномалии и мошенническую деятельность
+
 
