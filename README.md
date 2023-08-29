@@ -57,5 +57,5 @@ asdfasdfasdf
 ### [p04_cars](https://github.com/petrochenkovp/portfolio/tree/main/p04_cars/)
 ### [p03_gold](https://github.com/petrochenkovp/portfolio/tree/main/p03_gold/)
 ### [p02_games](https://github.com/petrochenkovp/portfolio/tree/main/p02_games/)
-### [p01_realty](https://github.com/petrochenkovp/portfolio/tree/main/p01_realty/)
+### [Исследование объявлений о продаже квартир](https://github.com/petrochenkovp/portfolio/tree/main/p01_realty/)
 
