@@ -8,7 +8,10 @@
 
 ## Соревнования, хакатоны
 
-### [8. Поиск одинаковых товаров (Хакатон ЛЦТ 2023, задача от компании OZON)](https://github.com/petrochenkovp/portfolio/tree/main/p08_leaders2023/)
+### [9. Поиск одинаковых товаров (Хакатон ЛЦТ 2023, задача от компании OZON)](https://github.com/petrochenkovp/portfolio/tree/main/p09_leaders2023/)
+Краткое описание
+
+### [8. Подготовка к хакатону ЛЦТ 2023](https://github.com/petrochenkovp/portfolio/tree/main/p08_leaders2023_prep/)
 Краткое описание
 
 ### [7. Классификация товара (Соревнование от KazanExpress)](https://github.com/petrochenkovp/portfolio/tree/main/p07_kazan_express/)
