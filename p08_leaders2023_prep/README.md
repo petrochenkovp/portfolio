@@ -43,6 +43,10 @@
 ## Стек
 python, pandas, numpy, nltk, pymorphy2, sklearn, gensim, torch, transformers
 
+<br><br>
+
 Перейти к коду проекта: [get_rte_features.ipynb](https://github.com/petrochenkovp/portfolio/blob/main/p08_leaders2023_prep/get_rte_features.ipynb)
 
-Ознакомиться с другими моими проектами: [Портфолио](https://github.com/petrochenkovp/portfolio/tree/main)
+Ознакомиться с другими моими проектами: [Портфолио](https://github.com/petrochenkovp/portfolio/)
+
+<br><br>
