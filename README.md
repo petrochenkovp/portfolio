@@ -42,7 +42,7 @@ OZON – одна из крупнейших интернет-компаний в
 <br>
 <br>
 
-## Учебные проекты
+## Учебные проекты курса "Специалист по DataScience" (Яндекс Практикум)
 
 ### [Предсказание температуры стали (дипломный проект)](https://github.com/petrochenkovp/educational_projects/tree/main/ds06_steel/)
 `Март 2023` &nbsp; `EDA` &nbsp; `ML` &nbsp; `Regression task`
