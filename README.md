@@ -5,8 +5,8 @@
 Меня зовут Владимир Петроченко, я специалист по Data Science
 
 Связаться со мной можно:
-- В Telegram: [@vladimirpetrochenko](https://t.me/vladimirpetrochenko)
-- По e-Mail: petrochenko_vp@mail.ru
+- в Telegram: [@vladimirpetrochenko](https://t.me/vladimirpetrochenko)
+- по e-Mail: petrochenko_vp@mail.ru
 
 <br>
 
